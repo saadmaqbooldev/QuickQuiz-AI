@@ -1,0 +1,19 @@
+# backend/requirements.txt
+
+# Web framework - FastAPI with all standard extras
+fastapi>=0.115.0
+
+# ASGI server for running FastAPI in production
+uvicorn[standard]>=0.34.0
+
+# Official Google Generative AI SDK
+google-genai>=1.0.0
+
+# Load environment variables from .env file
+python-dotenv>=1.0.1
+
+# Data validation and settings management (v2.12+ supports Python 3.14)
+pydantic>=2.12.0
+
+# HTTP library (used by google-genai internally)
+requests>=2.32.0
