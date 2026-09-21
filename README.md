@@ -7,7 +7,7 @@ An AI-powered application that generates text summaries and interactive quizzes 
 ![Gemini](https://img.shields.io/badge/Gemini-2.0-orange.svg)
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-## 📋 Table of Contents
+## 📋 Table of Content
 
 - [Overview](#overview)
 - [Features](#features)
@@ -85,11 +85,9 @@ Before running this project, ensure you have:
 - **Python 3.9 or higher** installed
   ```bash
   python --version
-
   Google Gemini API Key
 
 Get it from Google AI Studio
-
 Git (for version control)
 
 bash
@@ -142,3 +140,6 @@ Alternative:
 bash
 cd backend
 python main.py
+
+
+Saad Maqbool
